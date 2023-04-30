@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cahitsurucu
-- 👀 I’m interested in Mobile Development with Flutter
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me email : seyfocemo99@gmail.com instagram : cahitsurucu
+- 👋 Hi, I’m Seyfullah Cahit Sürücü
+- 👀 I’m interested in Game Development with Unity 3D and C#  
+- 🌱 I’m currently learning Unity 3D and C#
+- 📫 How to reach me email : cahitsurucu99@gmail.com linkedin : linkedin.com/in/cahitsurucu
 
 <!---
 cahitsurucu/cahitsurucu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
